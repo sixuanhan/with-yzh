@@ -1,0 +1,4 @@
+baseURL = 'https://sixuanhan.github.io'
+languageCode = 'en-us'
+title = 'My First Hugo Site'
+theme = 'ananke'
