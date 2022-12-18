@@ -1,4 +1,4 @@
-baseURL = 'https://sixuanhan.github.io'
+baseURL = 'https://sixuanhan.github.io/with-yzh/'
 languageCode = 'en-us'
 title = 'My First Hugo Site'
 theme = 'ananke'
