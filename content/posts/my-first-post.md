@@ -7,3 +7,5 @@ draft: false
 ## Introduction
 
 This is my *first* hugo site, following instructions from [quickstart](https://gohugo.io/getting-started/quick-start/).
+
+This is an update from Dec 18 2022.
